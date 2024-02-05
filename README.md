@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**NataliaMarconBotteon/NataliaMarconBotteon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - 😎 I'am a software development student.
+ - 📫 Reach me: nataliamarconbotteon@gmail.com or [Linkedin](https://www.linkedin.com/in/nataliamarcon/)
 
-Here are some ideas to get you started:
+EDUCATION
+ - 🖥️ Analysis and Systems Development (2023-...) Python | Java | JavaScript | PHP | HTML | MySQL | OOP
+ - 🖊️ Graphic design (2011-2014)
+ - 👁️ Visual communication (2009-2010)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+GEAR
+ - ⌨️ Redragon Shiva
+ - 🖱️ Motospeed V70 Essential
+ - 🎧 Phontum S
+ - 🎙️ Mymax
